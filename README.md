@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @heldersonbarros
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Django
-- 📫 How to reach me email
 
 <!---
 heldersonbarros/heldersonbarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
